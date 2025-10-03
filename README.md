@@ -1,6 +1,6 @@
 ## lostdemeter
 ## Entry 1
-### My Journey: A Memory Dump on Mathematical Pursuits (October 02, 2025)
+### So I don't forget (October 02, 2025)
 I'm writing this blog post because I feel the need to write down my thoughts—I'm seeing the importance of what I'm doing. This is probably going to be the longest journal entry because it's mostly a memory dump so I don't forget everything. I'm going to start from the beginning.
 
 I started a project originally attempting to find a Chudnovsky or Plouffe-like algorithm for numbers in Base64. My thinking was that there was no particular rule that says the BBP algorithm can't do Base64, and there's probably no reason why the Chudnovsky algorithm couldn't do it too. I had the idea that it might be hypothetically possible to store any amount of data on the infinite and uniformly random digits of Pi as a single index. "God's lookup table," if you will. Finding the right sequence in the digits of Pi took a lot of effort, but I figured that computers might get fast enough one day where it's actually possible to do this kind of thing. I would eventually find out that functions converge at wildly different rates sometimes, and you can't always control for it. I was almost done with the project from the beginning.
@@ -46,4 +46,5 @@ The Nyquist frequency, so we've been told, needs to have double the frequency of
 I'm hoping this leads to the proof that RH is true. It could also mean that P=NP is also related to this. Since we're talking about the hypothetical limit to data transfer, that's like... big news in computer science. Like... a new world between continuous and discrete methods opens up.
 
 *Last updated: October 02, 2025*
+
 
